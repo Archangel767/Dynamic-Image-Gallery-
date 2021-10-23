@@ -5,11 +5,6 @@
 - Repo: https://github.com/Archangel767/cpnt262-a2
 - Pages: https://archangel767.github.io/cpnt262-a2/
 
-## Code Review
-- A small bug I ran into was my inability to reduce the gap size between the grid tiles no matter what value I tried to adjust.
-- For some reason, I had put the figure elements into an unordered list, which created unmodifiable "intendations" in the grid. I removed the list elements and adjusted the styling accordingly.
-- Everything started to work more predictably, and I learned that I need to stop jacking random code I find on the internet.  
-
 ## Attributions
 - [Code] From JS tutorial (https://gist.github.com/acidtone/a5f40cda47c6d5c1a8e3815833572024) by Tony Grimes (https://gist.github.com/acidtone)
 - [Photo] (https://www.pexels.com/photo/body-of-water-with-rock-formation-2308893) by Matt Hardy (https://www.pexels.com/@matthardy) under [Pexels License] (http://www.pexels.com/license)]
