@@ -1,4 +1,4 @@
-
+'use strict';
 // Object literal array:
 const scenery = [
   {
